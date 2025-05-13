@@ -1,6 +1,6 @@
 # Audible - A Spotify Clone Music Player 🎵
 
-![Audible Screenshot](/public/screenshot.png) *[Note: Add your screenshot here]*
+![Audible Screenshot](/public/screenshot.png) 
 
 Audible is a modern, responsive music player web application inspired by Spotify. Built with React and Tailwind CSS, it provides a sleek interface for browsing albums and playing music tracks.
 
